@@ -1,0 +1,25 @@
+{
+    "nameApp" : "Componentes",
+    "rutes" : [
+        {
+            "rute" : "alert",
+            "icon" : "add_alert",
+            "texto": "Alertass"
+        },
+        {
+            "rute" : "avatar",
+            "icon" : "accessibility",
+            "texto": "Avatars"
+        },
+        {
+            "rute" : "card",
+            "icon" : "folder_open",
+            "texto": "Cards - Tarjetas"
+        },
+        {
+            "rute" : "accountant",
+            "icon" : "add_alert",
+            "texto": "Accountant"
+        }
+    ]
+}
