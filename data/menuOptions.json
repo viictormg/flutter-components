@@ -4,7 +4,7 @@
         {
             "rute" : "alert",
             "icon" : "add_alert",
-            "texto": "Alertass"
+            "texto": "Alert"
         },
         {
             "rute" : "avatar",
@@ -20,6 +20,26 @@
             "rute" : "accountant",
             "icon" : "add_alert",
             "texto": "Accountant"
+        },
+        {
+            "rute" : "animated",
+            "icon" : "donut_large",
+            "texto": "Animated - container"
+        },
+        {
+            "rute" : "input",
+            "icon" : "donut_large",
+            "texto": "Input page"
+        },
+        {
+            "rute" : "slider",
+            "icon" : "donut_large",
+            "texto": "Slider page"
+        },
+        {
+            "rute" : "listview",
+            "icon" : "donut_large",
+            "texto": "Slider view"
         }
     ]
 }

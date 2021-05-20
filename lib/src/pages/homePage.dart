@@ -31,7 +31,7 @@ class HomePage extends StatelessWidget {
     final List<Widget> options = [];
     data.forEach((opt) {
       final widgetTemp = ListTile(
-        title: Text(opt['rute']),
+        title: Text(opt['texto']),
         onTap: () {
           Navigator.pushNamed(context, opt['rute']);
         },
